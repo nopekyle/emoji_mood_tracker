@@ -26,6 +26,10 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
+  void saveEmoji() async {
+    
+  }
+
   @override
   void dispose() {
     textEditingController.dispose();
